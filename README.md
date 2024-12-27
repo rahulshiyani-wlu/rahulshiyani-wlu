@@ -61,12 +61,6 @@ I'm a passionate software developer and educator with expertise in developing us
 
 ---
 
-## 📈 GitHub Stats  
-
-![Rahulkumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulkumar-shiyani&show_icons=true&theme=radical)  
-
----
-
 ## 🌟 Connect with Me  
 
 - 📧 **Email:** rahulshiyani1@gmail.com  
